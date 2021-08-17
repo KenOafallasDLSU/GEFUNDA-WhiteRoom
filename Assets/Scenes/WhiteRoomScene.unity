@@ -5610,6 +5610,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1158568310}
     m_Modifications:
+    - target: {fileID: 8306295802226464908, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295802467373762, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Range
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295802467373762, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.4509804
+      objectReference: {fileID: 0}
     - target: {fileID: 8306295802487050509, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -5657,6 +5669,42 @@ PrefabInstance:
     - target: {fileID: 8306295802487050514, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
       propertyPath: m_Name
       value: Tower Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803207122032, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Range
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803207122032, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.4509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803428099720, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Range
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803428099720, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.4509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803631501349, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Range
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803631501349, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.4509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803819100208, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295804144500343, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8310817208239295514, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.56
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
@@ -6385,7 +6433,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh16280
+  m_Name: pb_Mesh32382
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -19386,7 +19434,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh16646
+  m_Name: pb_Mesh32732
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -20679,7 +20727,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh16660
+  m_Name: pb_Mesh32736
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -22036,6 +22084,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 336247225}
     m_Modifications:
+    - target: {fileID: 8306295802226464908, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295802467373762, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Range
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295802467373762, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.4509804
+      objectReference: {fileID: 0}
     - target: {fileID: 8306295802487050509, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -22084,6 +22144,42 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tower Light
       objectReference: {fileID: 0}
+    - target: {fileID: 8306295803207122032, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Range
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803207122032, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.4509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803428099720, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Range
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803428099720, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.4509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803631501349, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Range
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803631501349, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.4509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295803819100208, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306295804144500343, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8310817208239295514, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.64
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33fdfebb94a1d4440ac9c6b5a213625c, type: 3}
 --- !u!43 &1835657235
@@ -22092,7 +22188,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh16174
+  m_Name: pb_Mesh32268
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
